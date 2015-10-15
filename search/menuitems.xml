@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<items>
+<item>
+    <title>News</title>
+    <url>news</url>
+</item>
+<item>
+    <title>Gallery</title>
+    <url>gallery</url>
+</item>
+<item>
+    <title>Agenda</title>
+    <url>agenda</url>
+</item>
+<item>
+    <title>Contact</title>
+    <url>contact</url>
+</item>
+</items>
